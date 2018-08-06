@@ -1,0 +1,30 @@
+body{
+	background-color: white;
+
+}
+
+#player {
+	width: 20px;
+	height: 20px;
+	background: yellow;
+	transition: all 0.3s ease-out 0s;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.fire{
+	background-color: yellow;
+	width:15px;
+	height:10px;
+	border-radius:10px;
+	position: relative;
+	top:30px;
+	left: 140px;
+	right:50px;
+	
+}
+
+
+
+
